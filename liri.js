@@ -59,7 +59,7 @@ function concert() {
 // function for the liri command `spotify-this-song`
 function spotify(){
     if (userInput === null) {
-        userInput = "The Sign"
+        userInput = "The Sign Ace of Base"
     };
 
     var spotify = new Spotify(keys.spotify);
